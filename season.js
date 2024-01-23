@@ -13,4 +13,4 @@ if ((month === 12 && day >= 21) || (month === 1) || (month === 2 && day <= 20)) 
 } else {
     season = "invalid" 
 }
-console.log(season);
+alert(season)
